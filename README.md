@@ -15,6 +15,7 @@ Use this gif as an example of how the app should work.
 ## Setup
 
 Run this command to get the backend started:
+https://badimo.nyc3.digitaloceanspaces.com/crew_leaderboard/snapshot/top/50/season/3/latest.json
 
 ```console
 $ json-server --watch db.json
